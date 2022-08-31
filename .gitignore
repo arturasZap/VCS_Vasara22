@@ -1,0 +1,5 @@
+bin/
+obj/
+packages/Google.Protobuf.3.19.4/lib/netstandard1.1/Google.Protobuf.xml
+packages/
+.vs/
